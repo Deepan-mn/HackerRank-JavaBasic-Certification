@@ -1,0 +1,7 @@
+Answer: The following classes implement the Map Interface:
+
+HashMap
+HashTable
+TreeMap
+ConcurrentHashMap
+LinkedHashMap
